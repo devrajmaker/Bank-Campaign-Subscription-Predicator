@@ -21,5 +21,11 @@ Banks often run marketing campaigns to offer term deposits. The goal is to predi
 ---
 
 ## 🗂️ Project Structure
-
+📁 bank-subscription-app/
+├── app.py # Streamlit app
+├── main.py # Model training and preprocessing
+├── rf_model.pkl # Trained Random Forest model
+├── encoder.pkl # OneHotEncoder used for categorical features
+├── requirements.txt # App dependencies
+└── README.md # Project documentation
 
